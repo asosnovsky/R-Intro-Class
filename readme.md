@@ -9,4 +9,5 @@ Below are the topics in this R Tutorial which I will be discussing in the follow
 3. [Variables](./03_variables.md)
 4. [Flow Control](./04_flow.md)
 5. [Data Frames](./05_df.md)
-6. [Analysis Example]()
+6. [Reading Data](./06_read.md)
+7. [Analysis Example](./07_analysis.md)
