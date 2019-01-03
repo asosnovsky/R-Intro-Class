@@ -44,14 +44,14 @@ price_data %>%
   geom_histogram(aes(price), position="identity", alpha=0.5)
 ```
 
-## Assignment
+## Assignment - 1: Plotting and basic statistics
 
 - Compute the average and standard deviation of price and volume for each stock
 - Plot the volume for each stock over time
 - Plot the histogram for volume
 - **Bonus**: compute the correlation of volume and price for each stock
 
-## Data Reduction
+## Assignment - 2: Data Reduction and price-volume correlation
 
 Say we would like to reduce the dimensions of our data for the purpose of our analysis, we want to do this by:
 
