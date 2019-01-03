@@ -68,7 +68,7 @@ Take for example:
 ?plot
 ```
 
-This will show the documentation for the `plot` function in R (see the bottom left screen in R-studio).
+This will show the documentation for the `plot` function in R (see the bottom right screen in R-studio).
 
 ## Assignment 1
 
