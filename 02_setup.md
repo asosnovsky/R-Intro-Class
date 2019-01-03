@@ -1,3 +1,5 @@
+[Back](./readme.md)
+
 # R Tutorial: Installation of R
 
 In order to use R, we must first install two pieces of software:
