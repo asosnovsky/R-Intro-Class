@@ -51,6 +51,25 @@ Now we can call this function on variable inputs and see our return value.
     sapply(0:100, determine_age_group)
 ```
 
+## Built-in R functions
+
+R comes with many built-in mathematical functions such as:
+
+- min: minimum value of a list
+- max: maximum value of a list
+- mean: average value of a list
+- sd: standard deviation value of a list
+
+Additionally, R has a "help" operation which we did not discuss in [section 4](./04_operations.md). This operation shows the help window for built-in or package-installed functions in R.
+
+Take for example:
+
+```r
+?plot
+```
+
+This will show the documentation for the `plot` function in R (see the bottom left screen in R-studio).
+
 ## Assignment 1
 
 Define a function that given an interest rate and initial investment, will return the value of an investment at a specified time period. (i.e. complete the code below)
@@ -77,3 +96,5 @@ data.frame(
   time = c(rep(20, 3),rep(50, 3))
 )
 ```
+
+**Bonus**: Use the "plot" command to draw your final amount against varying interest rates.
