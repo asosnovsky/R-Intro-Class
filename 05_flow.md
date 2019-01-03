@@ -8,7 +8,7 @@ For the purpose of this tutorial we will only focus on the "for" and "if" contro
 ## If control Statement 
 This control statement evaluates a single condition. It is quite easy as it just has a single keyword “if” followed by the condition and then certain set of statements that needs to get executed in case it is true. Refer to the below flowchart to get a better understanding:
 
-<img src="./pics/flow_if.png" width="30%">
+<img src="./pics/flow-if.png" width="30%">
 
 ```r
 age = 5
@@ -25,7 +25,7 @@ if (age > 25) {
 ## For-Loops
 For loops are used when you need to execute a block of code several number of times. Refer to the below flowchart to get a better understanding: 
 
-<img src="./pics/flow_forloop.png" width="30%">
+<img src="./pics/flow-forloop.png" width="30%">
 
 ```r
 for (num in c(1,2,3,4,5)) {
