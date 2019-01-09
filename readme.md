@@ -10,6 +10,8 @@ Below are the topics in this R Tutorial which I will be discussing in the follow
 4. [Operations](./04_operations.md)
 5. [Flow Control](./05_flow.md)
 6. [Functions](./06_functions.md)
+7. [R Notebooks](./11_rnotebooks.Rmd)
+8. [Excercise](./10_rr.Rmd)
 
 The next topics are for those who wish to learn more, take these out at your own time.
 
