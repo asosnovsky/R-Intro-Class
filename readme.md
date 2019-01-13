@@ -9,9 +9,9 @@ Below are the topics in this R Tutorial which I will be discussing in the follow
 3. [Variables](./03_variables.md)
 4. [Operations](./04_operations.md)
 5. [Flow Control](./05_flow.md)
-6. [Functions](./06_functions.md)
+6. [Functions](./06_functions.md) ([Solution](./solution/functions.R))
 7. [R Notebooks](./11_rnotebooks.Rmd)
-8. [Exercise](./10_rr.Rmd) ([Solution](/solution/IRR.R))
+8. [Exercise](./10_rr.Rmd) ([Solution](./solution/IRR.R))
 
 The next topics are for those who wish to learn more, take these out at your own time.
 
